@@ -12,5 +12,9 @@
             "matches": ["*://*.quora.com/*"],
             "js": [ "index.js" ]
         }
-    ]
+    ],
+
+    "icons": {
+        "48": "thumbnail.png"
+    }
 }
